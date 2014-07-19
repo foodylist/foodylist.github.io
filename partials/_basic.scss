@@ -1,0 +1,41 @@
+// basic styling
+
+html, html a {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+
+*, *:after, *:before {
+	@include box-sizing(border-box);
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	font: {
+		size: 100%;
+		family: 'Roboto', sans-serif;
+	}
+
+	min-height: 100%;
+}
+
+img,embed,object,video {
+	max-width: 100%;
+}
+
+%speed { // Force Hardware Acceleration in WebKit 
+	-webkit-transform: translate3d(0, 0, 0);
+	-webkit-backface-visibility: hidden;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
