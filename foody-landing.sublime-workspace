@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"view ",
+				"View In Browser"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nikolaic/Dropbox/FoodyList-Dev/foodylist-landing/foodylist.github.io/index.html",
+		"/Users/nikolaic/Desktop/Puzzle",
+		"/Users/nikolaic/Sites/originsapp/index.html",
+		"/Users/nikolaic/Library/Application Support/Sublime Text 2/Packages/User/openinbrowser.sublime-settings",
+		"/Users/nikolaic/Library/Application Support/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/nikolaic/Sites/origins_io_beta/package.json",
+		"/Users/nikolaic/Sites/origins_io_beta/bower.json",
+		"/Users/nikolaic/Sites/origins_io_beta/js/app.js",
+		"/Users/nikolaic/Sites/origins_io_beta/js/components/home.js",
+		"/Users/nikolaic/Sites/origins_io_beta/styles/app.css",
+		"/Users/nikolaic/Sites/nikolai.in/_layouts/defaultfresh.html",
+		"/Users/nikolaic/Sites/nikolai.in/_layouts/default.html",
+		"/Users/nikolaic/Downloads/hero.html",
+		"/Users/nikolaic/Dropbox/ColumbiaEMBA/emba3.html",
+		"/Users/nikolaic/Downloads/emba.html",
+		"/Volumes/Netsol Hosing/origins/index.html",
+		"/Users/nikolaic/Dropbox/WebDev/Origins.io/dev/origins.io/cname",
+		"/Users/nikolaic/Dropbox/WebDev/Origins.io/dev/origins.io/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ff8400",
+			"h1",
+			"focus",
+			"panel-group",
+			"body",
+			"#fff",
+			"font-family",
+			"panel-heading",
+			"panel-title",
+			".panel",
+			"\".panel\"",
+			"\".panel'",
+			"panel",
+			"panel-body",
+			"<h4 class=\"media-heading\">Front End Engineer</h4>",
+			"list-group-item",
+			"btn-default",
+			"jumbo",
+			"F15D24",
+			"nav-",
+			"placeholder",
+			"focus",
+			"blur",
+			"btn-default:focus",
+			"btn:focus",
+			"form-control",
+			"padding",
+			"fff",
+			"#169d82",
+			"navbar",
+			"#1abc9c",
+			"#169d82",
+			"#2c3e50",
+			"jumbo",
+			"png",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"00b57c",
+			"<h3 class=\"media-heading\">Front End Engineer</h3>",
+			"F15D24",
+			"#fff",
+			"#F15D24"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}
