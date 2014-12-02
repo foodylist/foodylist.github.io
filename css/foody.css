@@ -142,14 +142,14 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #777;
+    border-color: #00b57c;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #777;
+    background-color: #00b57c;
 }
 
 .btn-xl:hover,
@@ -157,9 +157,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f6bf01;
+    border-color: #fff;
     color: #fff;
-    background-color: #ccc;
+    opacity: .8;
 }
 
 .btn-xl:active,
@@ -296,7 +296,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/foody-kebab.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
