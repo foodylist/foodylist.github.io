@@ -49,6 +49,10 @@ p.large {
     font-size: 16px;
 }
 
+p.xlarge {
+    font-size: 20px;
+}
+
 a,
 a:hover,
 a:focus,
@@ -355,12 +359,22 @@ section {
     padding: 100px 0;
 }
 
+h3.foodywhy {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 35px;
+    text-transform: none !important;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 105px;
     font-size: 40px;
     font-weight: 100;
-    text-transform: none;
+    text-transform: none !important;
 
 }
 
