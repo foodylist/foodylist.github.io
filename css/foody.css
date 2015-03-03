@@ -95,6 +95,10 @@ h6 {
     background-color: #222;
 }
 
+.bg-foody-green {
+    background-color: #00b57c;
+}
+
 .btn-primary {
     border-color: #777;
     text-transform: uppercase;
