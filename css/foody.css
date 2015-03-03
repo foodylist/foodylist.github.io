@@ -380,8 +380,10 @@ section h3.section-subheading {
 }
 
 .service-heading {
-    margin: 15px 0;
+    margin: 15px;
     text-transform: none;
+    text-align: left;
+    font-size: 16px;
 }
 
 #portfolio .portfolio-item {
