@@ -1,0 +1,690 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 43211,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\"> <!--<![endif]-->\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n        <title></title>\n        <meta name=\"description\" content=\"\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->\n    </head>\n    <body>\n        <!--[if lt IE 7]>\n            <p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n        <![endif]-->\n\n        <!-- Add your site or application content here -->\n        <p>Hello world! This is HTML5 Boilerplate.</p>\n\n        <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js\"></script>\n        <script>window.jQuery || document.write('<script src=\"js/vendor/jquery-1.10.2.min.js\"><\\/script>')</script>\n\n        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->\n        <script>\n            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=\n            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;\n            e=o.createElement(i);r=o.getElementsByTagName(i)[0];\n            e.src='//www.google-analytics.com/analytics.js';\nga('create','UA-XXXXX-X');ga('send','pageview');\n        </script>\n    </body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 1660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "ecomm accelerators\nemployee recognition -- heros\nbroker reserach\nroad\nxframework\nvirtual fitting room\n\n\niot -- innovation in wearables\nciti mobile challenge, iBeacon -- most transformative branch experience\n",
+			"settings":
+			{
+				"buffer_size": 207,
+				"line_ending": "Unix",
+				"name": "ecomm accelerators"
+			}
+		},
+		{
+			"contents": "* p2p lending is a growing industry, lots of potential as credit is harder to get for even credit worthy applicants, enabling a new group of investors who are cash rich, and fairly open to risk with small businesses with proven income & fair credit\n\nmarket opportunity & segments:\n*borrowers: enables credit worthy SMBs to gain access to capital at a more favorable rate than borring from a commerical institutions, and also enables them to borrow smaller amounts if desired. SMB segment has historically been though of as high risk, since there is a high rate of failure and are vulnerable to downturns in the economy. with the recent tightening of credit in the market, often these SMBs are without access to reliable capital\n*investors/lenders: enables access to the previously untappable SMB market for smaller individual investors, and enables them to get a higher return on small investments versus leaving money in a bank, or in PE funds.\n\nmarket size & growth: \n* market is hot & booming -- by bybassing traditional financial instutions, opens up credit availability to a massive amount of new markets, with potential for success\n* growing year over year, as more SMBs are looking for access to capital\n\nkey competitive advantage:\n* for creditfund.com -- propriety technology for matching is a key asset, can be protected & kept proprietary giving them an edge over potential competittiors\n\ncosts & concerns: \n* costs are high for this kind of industry, regulation is high & steady, complex rules and need for licensing by fed, state, and local gov'ts. need to be careful with the vetting process, to make sure that the basis for credit gives equal opportunity to all borrowers.\n* platform is only online, so no need for branch expenses & offline service\n* key revenue driver is through management fees, no cut on interest\n\n* since creditfund.com is a marketplace, they, themselves bear no risk for defaults, so they are insulated from negative feedback, since they only conduct the matching of borrower to lender\n\nrisks: \n* volatility risk -- flow of capital requests can vary & when poor decisions are made to lend to potentailly toxic borrowers, capacity will be constrained for new potential business\n\n* no protection from gov't, and p2p space doesn't have much support from established orgnizations, e.g. no banks or bank coalitions to fall back on, no lobbying organizations, \n\n* new regulations of the market may happen, and cause either high fees, legal costs, or inability to operate\n\n* very infantile market all of the risk lies with the investor, who pays back when the borrower defaults? nobody. very hard to create a market where there are no defaults from borrowers, even the most credit worthy group, has a %of defaults, investors need to diversify across different types of business, and need to manage their own risk in this way.\n\n* risk for the investor, such that if the platform is not successful, what happens to the loans and the relationship?\n\n* moral hazard, since there is no justification between the investor and the borrower, no insulation from the borrower just keeping the funds, or engaging in a highly risky opportunity, as they are only vetting the worthiness and not the intent of the loan\n\nassumptions: \n* creditfund.com is only providing the platform for matching & doesn't participate in the investment process\n* the propriety technology is under development, and continues to be under development, and will remain proprietary, can be protected \n\nPE investment:\nmost obvious one is loss of control, you get much more money for the deal but lose control\nno power in setting strategy, hiriing & firing employes and choosing managment team\nno control over exit strategy, e.g. they could splice and sell off your company and fire you.\ndifferent thoughts over value, and what value means, PE is generally focused on a 5-7 year window of which to transform the business and then make an exit\nconcerned baout payment terms for the equity, delayed payments, and potentailly gvetting less value due to time value of money\n\npotential for future -- repurchase of stake\n",
+			"settings":
+			{
+				"buffer_size": 4103,
+				"line_ending": "Unix",
+				"name": "* p2p lending is a growing industry, lots of poten"
+			}
+		},
+		{
+			"contents": "In order to properly evaluate a deal, it is important to review the parties concerns and risks. Here, GM wanted to give Cerebus Group majority control of GMAC because it can no longer properly manage given the financial difficult and debt both GM and GMAC were facing. I am assuming that since GM is only giving 51% and retaining an option to buy back GMAC, they wanted a buyer who would temporarily manage GMAC and assist in make it financially stable. Cerebus fits the bill because private equity funds are known for short-term investments (normally 10 year) and exits in the form of IPOs or sale. Cerebus’s primary concern is providing returns to their investors. Cerebus, in purchasing majority stake of GMACC, wants to make sure that they have full control of the company in order to make necessary decisions and that they company’s condition is no worse than presented. \nGM will want to make sure that Cerebus brings to the table what it promised: liquidity and ability to manage the GMAC’s financial woes. The purchase price of $14 billion addresses the concern. It provides some returns to GM in the form of assets and dividend and cash. Furthermore, the $25 billion credit facility provides some assurance that Cerebus will help lessen GMAC’s debt. It also keeps in mind Cerebus’s concerns that GM remain invested in the company—by requiring them to reinvest 10% of the purchase price into nonvoting shares. \nThe primary concern among the parties is uncertainty. Cerebus wants to make sure that they have control over GMAC and that GM, although monitoring as a minority owner, not hinder decisions. GM, given their long-term plans, are concerned about moral hazard and want to make sure that Cerebus doesn’t make decisions that are too risky.  \nThe terms of the deal give Cerebus 51% of GMAC’s voting and equity. The governance provisions also provide some aid to this issue. By giving Cerebus the right to pick the CEO and CFO and giving them 6/13 directors on the board, Cerebus feels satisfied that GM will not hinder their decision-making. GM is also satisfied because Cerebus does not majority control on the board. The addition of 3 independent directors protects against self-interested, risky decisions. I think this provides an equitable solution to the problem because it addresses concerns of both parties without giving any one party majority control of the board. \nAnother aspect of this uncertainty is GM’s concern as to exactly how Cerebus will manage the company. Cerebus essentially has a $14 billion dollar option in the company. We are not informed as to how much the company is worth but I imagine it is more. It is possible that Cerebus will prevent GMAC from financing GM vehicles or change the conduct of business. GM is concerned about this because it will remain a minority shareholder and would have reinvested some of the purchase price. The exclusivity contract addresses this concern because it makes sure that GMAC will continue providing vehicle financing to GM customers in accordance with historical practices. I, however, do not believe this was an adequate response. The deal has no provision as to what GMAC cannot do. It can enter into a different arena of financing or take extremely risky business conduct. Private equity companies depend highly on their reputation in the market and thus, this would prevent them from making extreme decisions. But the deal should have had some provision addressing any such conduct. It is possible that GM wanted such a provision but Cerebus did not want to be too constrained in their ability to make returns on the investment.  \nThe deal also gives GM a 10-year option to repurchase the GMAC auto financing operations at their fair market value. GM will want to preserve the value of this by preventing Cerebus from making risky decisions that affect the long-term value of the company. Cerebus, on the other hand, will want to make riskier decisions because as a private equity firm, by nature, they want to make returns in the short term.  ",
+			"settings":
+			{
+				"buffer_size": 4027,
+				"line_ending": "Unix",
+				"name": "In order to properly evaluate a deal, it is import"
+			}
+		},
+		{
+			"contents": "there are some interesting points in the forrester report.  one important one is the vendor is more worried about giving confessions than you are about getting them since they don't want this to set a precedent for other customers.  \n\ni'm going to put some points inline and you will have to expand on them.  sorry i couldn't have more time on this.  \n\non wed, dec 10, 2014 at 12:02 pm, nikolai chowdhury <nikolai.ishan@gmail.com> wrote:\nso this is forrester's white paper\nand i also attached a sample final paper from last year\n\nbasically i want to write a 10-12 page whitepaper on tactics for dealing with the negotiation with a software/offshore company\n\nintro: ​assumption that you are looking for a technical partner in the areas of software development and / or management of infrastructure and / or bpo\n \n​\nkey metrics to look for in a partner:​  ​\n\n​technical acumen of leaders and team members, experience in deployment of such services for other customers, process that is used to deliver these services - agile, waterfall, hybrid.  \ncommunication acumen of the same.  it is important to differentiate between the negotiators and the people who will be performing the services. in many cases the onshore counterparts are better trained, us schooled, high caliber folks, the recruits offshore while technically competant on paper may lack crucial interaction skills.  this is not to be taken as a generalization or stereotyping, it is real and based on experience.  ​\nwhat to watch out for:\n​deliverables are hard to quantize - are you engaging them to complete some work or for ongoing operations. slas will need to be established.  difficulty is how does one judge if a task should take 2 days or 2 weeks while the work is yet to be defined.  the best and only rule of thumb is to hire great people and ensure there is a solid process for onboarding them and a process for doing the work. this means that the standards you apply to your local employees have to be applied to the offshore vendor.  you need to be a part of the hiring / onboarding process - and you will get push back on this.  the trick will be to agree on this in terms of if i am hiring your people as i would my people then we will be on the same page in the execution phase.  \n\nwatch out for contract terms, renewals, overtime, holiday schedules in other countries, timezone timings.  btw - i am not a fan of graveyard shifts, it leads to inefficiencies and tired staff. do not be fooled by this notion of 24 hour coverage via follow the sun - this does not work. ​ \nnegotiaiton process:\n​pricing is of course important, replacement of staff that doesn't fit is equally important, in the case of operations management there have to be make-good terms in the slas.  reporting is important not reams of documentation which the cmmi-level-5 firms tend to do but moreover insist on dashboards and alerts.  establish kpm or key metrics, such as # of calls closed successfully, projects completed on time and under budget, # pointf of effort in agile sprints, be a part of the employee review process. ​\nwhat to compete on, what to ask for:\n​it is important to visit the offshore site and this has to be figured into the cost model, travel room & board etc. also important to have their key members visit your offices.  these are overlooked yet very key items for success. this builds trust and camarederie.  (sp) also important while the negotiations are happening to make sure your own team is on board - - would suggest this happens before you bring in the vendors or decide on the outsourcing strategy.  the team dynamic is a big topic and there is lots of ground to cover here.  ​\n\nthey have to provide you with tech leadership * every activity that they are doing with you cannot be a bilibale activity, we want them to come back to us and say that if you move to the cloud youll save money and scale -- waht you dont want is to be in a vendor relationship where you are going into a restaruant, and they give you what you ask for thenyou dont really want that kind of relationship; partners as if they think of themselves as they think of you .\n\nthat is waht you are looking for -- negotiation is getting to the esssece of how smart are these guys what are the senior people doing, and that is the key here. \n\n\nnegotiatoion is on quality and technology leadership. \nthat metric in and of it self will make your endavor succeed or fail\n\nnext we have to presell to our own organization on why you are outsourcing and you have to deal with taht up front -- or they will be like AHH im going to lose my job\n\npreselling to the orgnaiation why theya re doin this\n\nstart out in some areas, outsourcing operational stuff and keeping the knowledge work within the company still want to pick a vendor who can grow into a technology leadership and technology role, startup in an operational role -- then can grow into that.\n\ntactic --> they have the potentail. determination whether something succeeds or fails. \n\n\nCONTEXT & BACKGROUND………………….…………………….\nKEY METRICS………………………………………….\nPITFALLS……………………………………………..\nORGANIZATIONAL ADVICE……………………………………………..\nCONCLUSION……………………………………\nCONCLUSION……………………………………\n",
+			"file": "/Users/nikolaic/Desktop/negotiations-whitepaper",
+			"file_size": 5007,
+			"file_write_time": 1418251957000000,
+			"settings":
+			{
+				"buffer_size": 5172,
+				"line_ending": "Unix",
+				"name": "there are some interesting points in the forrester"
+			}
+		},
+		{
+			"file": "/Users/nikolaic/Desktop/166.67 — 2000 hours in a year : 12 —>",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "166.67 — 2000 hours in a year / 12 —>"
+			}
+		},
+		{
+			"file": "/Users/nikolaic/Dropbox/Yelp clone script/yelp.sql",
+			"settings":
+			{
+				"buffer_size": 18397,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n",
+			"settings":
+			{
+				"buffer_size": 2331,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"file": "css/foody.css",
+			"settings":
+			{
+				"buffer_size": 17369,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/foody.js",
+			"settings":
+			{
+				"buffer_size": 655,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"boiler",
+				"Snippet: htmlboiler"
+			],
+			[
+				"html5 b",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"view ",
+				"View In Browser"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nikolaic/Dropbox/FoodyList-Dev/2014-web/foody-landing/less/foody.less",
+		"/Users/nikolaic/Dropbox/FoodyList-Dev/2014-web/foody-landing/js/agency.js",
+		"/Users/nikolaic/Dropbox/FoodyList-Dev/foodylist-landing/foodylist.github.io/index.html",
+		"/Users/nikolaic/Desktop/Puzzle",
+		"/Users/nikolaic/Sites/originsapp/index.html",
+		"/Users/nikolaic/Library/Application Support/Sublime Text 2/Packages/User/openinbrowser.sublime-settings",
+		"/Users/nikolaic/Library/Application Support/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/nikolaic/Sites/origins_io_beta/package.json",
+		"/Users/nikolaic/Sites/origins_io_beta/bower.json",
+		"/Users/nikolaic/Sites/origins_io_beta/js/app.js",
+		"/Users/nikolaic/Sites/origins_io_beta/js/components/home.js",
+		"/Users/nikolaic/Sites/origins_io_beta/styles/app.css",
+		"/Users/nikolaic/Sites/nikolai.in/_layouts/defaultfresh.html",
+		"/Users/nikolaic/Sites/nikolai.in/_layouts/default.html",
+		"/Users/nikolaic/Downloads/hero.html",
+		"/Users/nikolaic/Dropbox/ColumbiaEMBA/emba3.html",
+		"/Users/nikolaic/Downloads/emba.html",
+		"/Volumes/Netsol Hosing/origins/index.html",
+		"/Users/nikolaic/Dropbox/WebDev/Origins.io/dev/origins.io/cname",
+		"/Users/nikolaic/Dropbox/WebDev/Origins.io/dev/origins.io/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn",
+			"media",
+			"agency",
+			"ff8400",
+			"h1",
+			"focus",
+			"panel-group",
+			"body",
+			"#fff",
+			"font-family",
+			"panel-heading",
+			"panel-title",
+			".panel",
+			"\".panel\"",
+			"\".panel'",
+			"panel",
+			"panel-body",
+			"<h4 class=\"media-heading\">Front End Engineer</h4>",
+			"list-group-item",
+			"btn-default",
+			"jumbo",
+			"F15D24",
+			"nav-",
+			"placeholder",
+			"focus",
+			"blur",
+			"btn-default:focus",
+			"btn:focus",
+			"form-control",
+			"padding",
+			"fff",
+			"#169d82",
+			"navbar",
+			"#1abc9c",
+			"#169d82",
+			"#2c3e50",
+			"jumbo",
+			"png",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"00b57c",
+			"<h3 class=\"media-heading\">Front End Engineer</h3>",
+			"F15D24",
+			"#fff",
+			"#F15D24"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 43211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1908,
+								1908
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 1660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1574,
+								1574
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ecomm accelerators",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 4103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3490,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "* p2p lending is a growing industry, lots of poten",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"settings":
+					{
+						"buffer_size": 4027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4025,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "In order to properly evaluate a deal, it is import",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/nikolaic/Desktop/negotiations-whitepaper",
+					"settings":
+					{
+						"buffer_size": 5172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4090,
+								4090
+							]
+						],
+						"settings":
+						{
+							"auto_name": "there are some interesting points in the forrester",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 696.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/nikolaic/Desktop/166.67 — 2000 hours in a year : 12 —>",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "166.67 — 2000 hours in a year / 12 —>",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/nikolaic/Dropbox/Yelp clone script/yelp.sql",
+					"settings":
+					{
+						"buffer_size": 18397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"settings":
+					{
+						"buffer_size": 2331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2331,
+								2331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "css/foody.css",
+					"settings":
+					{
+						"buffer_size": 17369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "js/foody.js",
+					"settings":
+					{
+						"buffer_size": 655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true
+}
