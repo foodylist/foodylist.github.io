@@ -50,7 +50,16 @@ p.large {
 }
 
 p.xlarge {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 20px;
+    font-weight: normal;
+    line-height: 37px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 35px;
+    text-align: left;
 }
 
 a,
@@ -393,15 +402,15 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 100px 0;
     }
 }
 
-.service-heading {
+.foody-heading {
     margin: 15px;
     text-transform: none;
-    text-align: left;
-    font-size: 16px;
+    text-align: center;
+    font-size: 17px;
 }
 
 #portfolio .portfolio-item {
@@ -926,3 +935,176 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #777;
 }
+
+.content-13 {
+  position:relative
+}
+ 
+.bg-foody {
+  background-color:#00b57c
+}
+ 
+.content-13.subscribe-form {
+  padding-top:40px;
+  padding-bottom:40px;
+  color:#00b57c
+}
+ 
+.content-13.subscribe-form .col-sm-4 {
+  text-align:right
+}
+ 
+@media (max-width: 767px) {
+ .content-13.subscribe-form .col-sm-4 {
+   width:auto;
+   display:inline-block;
+   float:right;
+   text-align:center
+ }
+ 
+}
+ 
+@media (max-width: 668px) {
+ .content-13.subscribe-form .col-sm-4 {
+   display:block;
+   float:none
+ }
+ 
+}
+ 
+.content-13.subscribe-form form {
+  margin:0;
+  position:relative
+}
+ 
+@media (max-width: 767px) {
+ .content-13.subscribe-form form .col-sm-8 {
+   width:65%;
+   display:inline-block;
+   float:left
+ }
+ 
+}
+ 
+@media (max-width: 668px) {
+ .content-13.subscribe-form form .col-sm-8 {
+   width:auto;
+   display:block;
+   float:none;
+   text-align:center
+ }
+ 
+}
+ 
+.content-13.subscribe-form input[type="text"],.content-13.subscribe-form input[type="email"] {
+    width:100%;
+    height:auto;
+    margin:0;
+    padding:0;
+    border:0;
+    background:transparent;
+    line-height:60px;
+    font-size:50px;
+    font-weight:normal;
+    color:#ffffff;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight:500;
+    letter-spacing:-1px
+}
+ 
+.content-13.subscribe-form input[type="text"]:-moz-placeholder,.content-13.subscribe-form input[type="email"]:-moz-placeholder {
+  color:#ffffff
+}
+ 
+.content-13.subscribe-form input[type="text"]::-moz-placeholder,.content-13.subscribe-form input[type="email"]::-moz-placeholder {
+  color:#ffffff;
+  opacity:1
+}
+ 
+.content-13.subscribe-form input[type="text"]:-ms-input-placeholder,.content-13.subscribe-form input[type="email"]:-ms-input-placeholder {
+  color:#ffffff
+}
+ 
+.content-13.subscribe-form input[type="text"]::-webkit-input-placeholder,.content-13.subscribe-form input[type="email"]::-webkit-input-placeholder {
+  color:#ffffff
+}
+ 
+.content-13.subscribe-form input[type="text"].placeholder,.content-13.subscribe-form input[type="email"].placeholder {
+  color:#ffffff
+}
+ 
+.content-13.subscribe-form input[type="text"]::-webkit-input-placeholder,.content-13.subscribe-form input[type="email"]::-webkit-input-placeholder {
+  font-weight:500;
+  letter-spacing:-1px
+}
+ 
+.content-13.subscribe-form input[type="text"]:-moz-placeholder,.content-13.subscribe-form input[type="email"]:-moz-placeholder {
+  font-weight:500;
+  letter-spacing:-1px
+}
+ 
+.content-13.subscribe-form input[type="text"]::-moz-placeholder,.content-13.subscribe-form input[type="email"]::-moz-placeholder {
+  font-weight:500;
+  letter-spacing:-1px
+}
+ 
+.content-13.subscribe-form input[type="text"]:-ms-input-placeholder,.content-13.subscribe-form input[type="email"]:-ms-input-placeholder {
+  font-weight:500;
+  letter-spacing:-1px
+}
+ 
+.content-13.subscribe-form .ani-placeholder {
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    position:absolute;
+    padding-left:6px;
+    line-height:60px;
+    font-size:50px;
+    font-weight:normal;
+    color:#ffffff;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+ 
+.content-13.subscribe-form .btn {
+  margin-top:0px;
+  width:220px;
+  max-width:100%
+}
+ 
+.content-13.subscribe-form .btn.btn-primary {
+  background:#16a085
+}
+ 
+.content-13.subscribe-form .btn.btn-primary:hover,.content-13.subscribe-form .btn.btn-primary:focus {
+  background:#24deb4
+}
+ 
+.content-13.subscribe-form .btn.btn-primary:active,.content-13.subscribe-form .btn.btn-primary.active {
+  background:#138871
+}
+ 
+.content-13.subscribe-form .dm-form-button {
+  height:46px
+}
+ 
+@media (max-width: 480px) {
+ .content-13.subscribe-form input[type="text"],.content-13.subscribe-form input[type="email"],.content-13.subscribe-form .ani-placeholder {
+    width:100%;
+    margin-bottom:33px;
+    line-height:27px;
+    font-size:25px;
+    font-weight:normal;
+    color:#ffffff;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align:center
+ }
+ 
+}
+ 
+@media (max-width: 688px) {
+ .content-13.subscribe-form input[type="text"],.content-13.subscribe-form input[type="email"],.content-13.subscribe-form .ani-placeholder {
+   width:100%;
+   margin-bottom:20px;
+   text-align:center
+ }
