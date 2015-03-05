@@ -81,7 +81,7 @@
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
+                <ul id="nav" class="nav navbar-nav navbar-right">
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
@@ -93,6 +93,13 @@
                     </li>
                 </ul>
             </div>
+
+            <script type="text/javascript">
+                mixpanel.track_links("#nav li a", "click top nav link", {
+                    "referrer": document.referrer
+                });
+            </script>
+
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->
@@ -105,8 +112,13 @@
             <div class="intro-text col-lg-12">
                 <h1 class="foody-intro">Your recommendations are going to change the way the world eats.</h1>
                 <br>
-                <a href="#product" class="page-scroll btn btn-xl" style="float: left;">Join Now</a>
+                <a id="join1" href="#product" class="page-scroll btn btn-xl" style="float: left;">Join Now</a>
             </div>
+            <script type="text/javascript">
+                mixpanel.track_links("#join1", "click join button 1", {
+                    "referrer": document.referrer
+                });
+            </script>            
 
 
                 
@@ -174,7 +186,13 @@
                     <p class="xlarge" align="left">We've talked to thousands of people that love food and everyone loves to share. They keep lists. Whether it's in your head, taped to the wall, or in a Google doc -- it exists. We are building Foodylist in mobile technology to help you share your best recommendations with the people you want.
                     </p><br>
 
-<a href="#join" class="page-scroll btn btn-xl">Join Now!</a>
+<a id="join2" href="#join" class="page-scroll btn btn-xl">Join Now!</a>
+
+            <script type="text/javascript">
+                mixpanel.track_links("#join2", "click join button 1", {
+                    "referrer": document.referrer
+                });
+            </script>         
 
                 </div>
             </div>
@@ -369,7 +387,7 @@ Team Section -->
 <section id="join" class="content-13 subscribe-form bg-darkest-gray">
    <div class="container">
      <div class="row">
-       <form action="//foodylist.us9.list-manage.com/subscribe/post?u=f43ad6e8dbdf80ef6a5736624&amp;id=d362038ce7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+       <form id="signup" action="//foodylist.us9.list-manage.com/subscribe/post?u=f43ad6e8dbdf80ef6a5736624&amp;id=d362038ce7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
          <div class="col-sm-8">
            <input type="email" placeholder="Enter your email to be first..." spellcheck="false" name="EMAIL" class="required email" id="mce-EMAIL">
          </div>
@@ -385,6 +403,12 @@ Team Section -->
      </div>
    </div>
  </section>
+
+             <script type="text/javascript">
+                mixpanel.track_forms("#signup", "email subscribe", {
+                    "referrer": document.referrer
+                });
+            </script>  
 
     <footer class="bg-foody-green">
         <div class="container">
@@ -431,7 +455,7 @@ Team Section -->
     <!-- Custom Theme JavaScript -->
     <script src="js/foody.js"></script>
 
-    <!-- Google Analytics -->
+    <!-- Google Analytics
     <script>
         (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
         function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
@@ -439,7 +463,7 @@ Team Section -->
         e.src='//www.google-analytics.com/analytics.js';
         r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
         ga('create','UA-52095494-1');ga('send','pageview');
-    </script>
+    </script>-->
 
 </body>
 
